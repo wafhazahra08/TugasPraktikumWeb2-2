@@ -13,10 +13,10 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
 
 > **Output**
 
-![Screenshot (51)](https://github.com/zulaeha168/Pert7Web/assets/130324650/58f27672-eb51-4b60-b30b-d24d339d09a4)
-![Screenshot (52)](https://github.com/zulaeha168/Pert7Web/assets/130324650/ae8e0e38-c55c-4093-ad74-f0e58cdfcd04)
-![Screenshot (53)](https://github.com/zulaeha168/Pert7Web/assets/130324650/a416b38b-03b2-4df6-b617-d768a98008ff)
-![Screenshot (54)](https://github.com/zulaeha168/Pert7Web/assets/130324650/032e874e-d640-4ce5-98d0-c770f9c8c909)
-![Screenshot (55)](https://github.com/zulaeha168/Pert7Web/assets/130324650/32df40cf-9659-4bfa-a4bd-f2a02ebf0ab2)
-![Screenshot (56)](https://github.com/zulaeha168/Pert7Web/assets/130324650/e860843d-1172-49d3-a9ce-fd30a6228c07)
-![Screenshot (57)](https://github.com/zulaeha168/Pert7Web/assets/130324650/242aa21e-dcba-468b-a7dd-8a3cb623a91f)
+![web7-1](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/52d1f298-04ac-408c-b4d6-76f33b46ca91)
+![web7-2](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/8fcac372-b7b8-4b53-ab6a-f32055829860)
+![web7-3](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/4e086d2f-5677-49a9-8d68-c99ea291d04c)
+![web7-4](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/62d3131e-cf6e-437f-a283-8f00c5285167)
+![web7-5](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/8f30dc51-c72f-4b49-b287-2f1ecec7c5c5)
+![web7-6](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/c5697f24-e0c7-44f1-80ad-e487cb446389)
+![web7-7](https://github.com/wafhazahra08/TugasPraktikumWeb2-2/assets/131223804/da9ff740-f364-44e8-8a8f-46622d4b5ea7)
